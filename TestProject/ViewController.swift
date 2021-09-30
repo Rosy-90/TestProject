@@ -13,7 +13,7 @@ class ViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
         print("Hello World Again...")
-        print("want to merge pr1")
+        print("Want to merge pr1")
     }
 
 
